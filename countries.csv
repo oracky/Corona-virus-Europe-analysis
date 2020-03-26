@@ -19,7 +19,7 @@
 ['Africa/Porto-Novo'],BJ,Africa,Benin,Porto-Novo
 ['Asia/Brunei'],BN,Asia,Brunei Darussalam,Bandar Seri Begawan
 ['America/La_Paz'],BO,South America,Bolivia,Sucre
-"['America/Noronha', 'America/Belem', 'America/Fortaleza', 'America/Recife', 'America/Araguaina', 'America/Maceio', 'America/Bahia', 'America/Sao_Paulo', 'America/Campo_Grande', 'America/Cuiaba', 'America/Porto_Velho', 'America/Boa_Vista', 'America/Manaus', 'America/Eirunepe', 'America/Rio_Branco']",BR,South America,Brazil,Bras­lia
+"['America/Noronha', 'America/Belem', 'America/Fortaleza', 'America/Recife', 'America/Araguaina', 'America/Maceio', 'America/Bahia', 'America/Sao_Paulo', 'America/Campo_Grande', 'America/Cuiaba', 'America/Porto_Velho', 'America/Boa_Vista', 'America/Manaus', 'America/Eirunepe', 'America/Rio_Branco']",BR,South America,Brazil,Braslia
 ['America/Nassau'],BS,North America,Bahamas,Nassau
 ['Asia/Thimphu'],BT,Asia,Bhutan,Thimphu
 ['Africa/Gaborone'],BW,Africa,Botswana,Gaborone
@@ -69,7 +69,7 @@
 ['Asia/Calcutta'],IN,Asia,India,New Delhi
 ['Asia/Baghdad'],IQ,Asia,Iraq,Baghdad
 ['Asia/Tehran'],IR,Asia,Iran,Tehran
-['Atlantic/Reykjavik'],IS,Europe,Iceland,Reykjav­k
+['Atlantic/Reykjavik'],IS,Europe,Iceland,Reykjavik
 ['Europe/Rome'],IT,Europe,Italy,Rome
 ['America/Jamaica'],JM,North America,Jamaica,Kingston
 ['Asia/Amman'],JO,Asia,Jordan,Amman
@@ -138,14 +138,14 @@
 ['Africa/Dakar'],SN,Africa,Senegal,Dakar
 ['Africa/Mogadishu'],SO,Africa,Somalia,Mogadishu
 ['America/Paramaribo'],SR,South America,Suriname,Paramaribo
-['Africa/Sao_Tome'],ST,Africa,So Tom and Pr­ncipe,So Tom
+['Africa/Sao_Tome'],ST,Africa,So Tom and Principe,So Tom
 ['Asia/Damascus'],SY,Asia,Syria,Damascus
 ['Africa/Lome'],TG,Africa,Togo,Lom
 ['Asia/Bangkok'],TH,Asia,Thailand,Bangkok
 ['Asia/Dushanbe'],TJ,Asia,Tajikistan,Dushanbe
 ['Asia/Ashgabat'],TM,Asia,Turkmenistan,Ashgabat
 ['Africa/Tunis'],TN,Africa,Tunisia,Tunis
-['Pacific/Tongatapu'],TO,Oceania,Tonga,Nuku»alofa
+['Pacific/Tongatapu'],TO,Oceania,Tonga,Nukualofa
 ['Europe/Istanbul'],TR,Asia,Turkey,Ankara
 ['America/Port_of_Spain'],TT,North America,Trinidad and Tobago,Port of Spain
 ['Pacific/Funafuti'],TV,Oceania,Tuvalu,Funafuti
