@@ -1,10 +1,10 @@
 Country,GDP2019
-Germany,3,863.344
-United,Kingdom,2,743.586
-France,2,707.074
-Italy,1,988.636
-Russia,1,637.892
-Spain,1,397.870
+Germany,3863.344
+United,Kingdom,2743.586
+France,2707.074
+Italy,1988.636
+Russia,1637.892
+Spain,1397.870
 Netherlands,902.355
 Turkey,743.708
 Switzerland,715.360
@@ -16,7 +16,7 @@ Norway,417.627
 Ireland,384.940
 Denmark,347.176
 Finland,269.654
-Czech,Republic,246.953
+Czech Republic,246.953
 Romania,243.698
 Portugal,236.408
 Greece,214.012
@@ -41,10 +41,10 @@ Georgia,15.925
 Albania,15.418
 Malta,14.859
 Armenia,13.444
-North,Macedonia,12.672
+North Macedonia,12.672
 Moldova,11.688
 Kosovo,7.996
 Montenegro,5.424
-San,Marino,1.591
+San Marino,1.591
 Monaco,7.188,
 Andorra,3.238
