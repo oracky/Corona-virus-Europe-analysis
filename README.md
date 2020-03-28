@@ -1,4 +1,1 @@
-# Corona-virus-Europe-analysis
-Short analysis of SARS-CoV-2 in Europe
-
-[IN PROGRESS]
+# Corona virus analysis showing relations between GDP of european countries and effects of SARS-CoV-2019
