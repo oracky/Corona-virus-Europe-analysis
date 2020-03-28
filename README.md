@@ -1,4 +1,4 @@
-# Corona virus analysis showing relations between GDP of european countries and effects of SARS-CoV-2019
+# Coronavirus analysis showing relations between GDP of european countries and effects of SARS-CoV-2019
 
 ## Topics covered:
 * Europe GDP in 2019
